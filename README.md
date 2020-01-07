@@ -1,4 +1,4 @@
-#react-router-stack-switch
+# react-router-stack-switch
 
 ## Install
 

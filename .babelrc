@@ -1,0 +1,22 @@
+{
+  "presets": [
+    [
+      "@babel/preset-typescript"
+    ],
+    [
+      "@babel/preset-env",
+      {
+        "loose": true,
+        "useBuiltIns": false,
+        "targets": {
+          "node": "current"
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    "@babel/plugin-proposal-optional-chaining",
+    "@babel/plugin-syntax-bigint",
+    "@babel/plugin-proposal-class-properties"
+  ]
+}

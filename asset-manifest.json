@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-router-stack-switch/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-router-stack-switch/static/js/main.7fbee7a8.chunk.js",
+    "main.js.map": "/react-router-stack-switch/static/js/main.7fbee7a8.chunk.js.map",
+    "runtime-main.js": "/react-router-stack-switch/static/js/runtime-main.c5809564.js",
+    "runtime-main.js.map": "/react-router-stack-switch/static/js/runtime-main.c5809564.js.map",
+    "static/js/2.03420338.chunk.js": "/react-router-stack-switch/static/js/2.03420338.chunk.js",
+    "static/js/2.03420338.chunk.js.map": "/react-router-stack-switch/static/js/2.03420338.chunk.js.map",
+    "index.html": "/react-router-stack-switch/index.html",
+    "precache-manifest.086b05c691f8605716410832dcc5675d.js": "/react-router-stack-switch/precache-manifest.086b05c691f8605716410832dcc5675d.js",
+    "service-worker.js": "/react-router-stack-switch/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-router-stack-switch/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.03420338.chunk.js.LICENSE": "/react-router-stack-switch/static/js/2.03420338.chunk.js.LICENSE",
+    "static/media/logo.svg": "/react-router-stack-switch/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5809564.js",
+    "static/js/2.03420338.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.7fbee7a8.chunk.js"
+  ]
+}

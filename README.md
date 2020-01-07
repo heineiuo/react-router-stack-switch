@@ -11,13 +11,15 @@ yarn add react-router-stack-switch
 ## Usage
 
 ```tsx
-import { StackSwitch } from "./StackSwitch";
+import React from 'react';
+import { HashRouter, Route } from "react-router-dom";
+import { StackSwitch } from "react-router-stack-switch";
 
 const App: React.FC = () => {
   return (
     <HashRouter>
       <StackSwitch>
-        <Route path="/" exact component={App}></Route>
+        <Route path="/" exact component={Home}></Route>
         <Route path="/learn/:chapter" exact component={Learn}></Route>
       </StackSwitch>
     </HashRouter>

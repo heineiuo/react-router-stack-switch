@@ -23,7 +23,12 @@ function reducer(state: any, action: any) {
       count++;
     }
   } else if (type === "POP") {
-    count--;
+    if (stack.length > 1) {
+      if (count === stack.length - 1) {
+        stack.pop()
+      }
+      count--
+    }
   } else if (type === "REPLACE") {
     if (stack.length > 0) {
       stack[stack.length - 1] = payload;

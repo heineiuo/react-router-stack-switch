@@ -2,6 +2,8 @@
 
 Demo: [https://heineiuo.github.io/react-router-stack-switch/index.html](https://heineiuo.github.io/react-router-stack-switch/index.html)
 
+![demo](./demo.gif)
+
 ## Install
 
 ```
